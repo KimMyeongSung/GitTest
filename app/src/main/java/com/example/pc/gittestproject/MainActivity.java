@@ -11,15 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //첫번째 업로드
-        ///////
-
-        ///////////////
-
-
-
-        /////////////////////
-        /*??!*/
-        /***/
+        //삭제
     }
 }
