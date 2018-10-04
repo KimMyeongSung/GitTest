@@ -11,6 +11,18 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+<<<<<<< HEAD
         //삭제
+=======
+        //첫번째 업로드
+        ///////
+
+        ///////////////
+
+
+
+        /////////////////////
+        /*??!*/
+>>>>>>> parent of 42167de... dz
     }
 }
