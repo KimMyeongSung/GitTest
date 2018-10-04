@@ -3,7 +3,11 @@ package com.example.pc.gittestproject;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-/**깃허브 연동 테스트 프로젝트*/
+/**
+* 깃허브 연동 테스트 프로젝트입니다.
+* @author KMS
+* @since 2018-10-04 오전 9:22
+*/
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -11,18 +15,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-<<<<<<< HEAD
-        //삭제
-=======
-        //첫번째 업로드
-        ///////
-
-        ///////////////
-
-
-
-        /////////////////////
-        /*??!*/
->>>>>>> parent of 42167de... dz
     }
 }
